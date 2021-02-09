@@ -1,0 +1,16 @@
+div{
+   display:flex;
+   text-align: center;
+   justify-content: center;
+   padding-top: 20%;
+}
+
+form{
+   border:2px solid black;
+   border-radius:10px;
+   padding:20px;
+}
+
+#bgc{
+   outline:none;
+}
